@@ -1,0 +1,8 @@
+Averaged Accuracy: 89.38%
+
+Std deviation (Accuracy): 0.00%
+
+Averaged Recall: 87.45%
+
+Std deviation (Recall): 0.00%
+
